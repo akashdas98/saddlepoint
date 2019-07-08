@@ -38,7 +38,7 @@ int main()
 			if(cmin == rmax[cminloc])
 				printf("\nSaddle point %i at location a[%i, %i].", cmin, cminloc, j);
 		}
-		printf("\n\n\n");
+		printf("\n\n");
 		flag = -1;
 	}	
 	return 0;
